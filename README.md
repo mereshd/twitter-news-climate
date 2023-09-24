@@ -10,6 +10,6 @@ This project delves into the vast world of Twitter to determine its reliability 
 4) A more detailed description of each step and the analysis insights are captured in the presentation file in this repository (`twitter-news-climate/BDP_Presentation.pdf`). 
 
 ## Tech Stack
-- Apache Spark(PySpark) (data processing and analysis)
-- Python (matplotlib, seaborn, numpy,pandas, re, os)
-- Google Cloud Platform (GCP) (Infrastructure for cloud-based computation)
+- Apache Spark(PySpark): data processing and analysis
+- Python: matplotlib, seaborn, numpy, pandas, re, os
+- Google Cloud Platform (GCP): cloud-based infrastructure
